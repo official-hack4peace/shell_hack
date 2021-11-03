@@ -11,6 +11,6 @@ This tool is made for hacking other person terminal shell by just using two prog
 ### python3 server.py
 ### (use this program in victims terminal) python3 client.py
 # how to use shell hack tool
-####step 1:- run setup program 
-####setp 2:- run server program in your terminal
-####step 3:- run client program in victims terminal
+###step 1:- run setup program 
+###setp 2:- run server program in your terminal
+###step 3:- run client program in victims terminal
