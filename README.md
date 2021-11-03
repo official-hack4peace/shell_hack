@@ -8,3 +8,6 @@ This tool is made for hacking other person terminal shell by just using two prog
 ### git clone htts://github.com/official-hack4peace/shell_hack
 ### cd shell_hack
 ### python3 server.py
+### (use this program in victims terminal) python3 client.py
+# how to use shell hack tool
+
