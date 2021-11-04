@@ -14,3 +14,4 @@ This tool is made for hacking other person terminal shell by just using two prog
 #### step 1:- run setup program 
 #### step 2:- run server program in your terminal
 #### step 3:- run client program in victims terminal
+# practical
