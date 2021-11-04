@@ -17,7 +17,7 @@ This tool is made for hacking other person terminal shell by just using two prog
 #### 4. Kali nethunter
 #### 5. Windows
 # how to use shell hack tool
-#### step 1:- run setup program 
+#### step 1:- run setup program (for linux user not for windows user) 
 #### step 2:- run server program in your terminal
 #### step 3:- run client program in victims terminal
 # practical
