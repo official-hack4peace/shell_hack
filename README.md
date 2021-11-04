@@ -5,7 +5,7 @@ I AM NOT RESPONSIBLE FOR ANY ILLEGAL WORK THIS IS YOUR RESPONSIBILITY IF YOU EXC
 # shell_hack
 This tool is made for hacking other person terminal shell by just using two programs.
 # installation
-#### git clone htts://github.com/official-hack4peace/shell_hack
+#### git clone https://github.com/official-hack4peace/shell_hack
 #### cd shell_hack
 #### bash setup.sh
 #### python3 server.py
