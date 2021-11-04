@@ -26,4 +26,4 @@ This tool is made for hacking other person terminal shell by just using two prog
 #### after connected from victims terminal
 ![IMG_20211104_103703](https://user-images.githubusercontent.com/90603785/140261204-245c18cb-20e2-4835-896e-b9436ab437b8.jpg)
 # Thanks
-THANKS FOR USING MY TOOL IF YOU LIKE THIS TOOL THEN PLEASE GIVE STAR
+THANKS FOR USING MY TOOL 😊IF YOU LIKE THIS TOOL THEN PLEASE GIVE STAR 🌟
