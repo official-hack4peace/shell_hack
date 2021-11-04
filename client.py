@@ -1,7 +1,7 @@
 import socket
 import subprocess
 
-HOST = '0.0.0.0'
+HOST = input("Enter hostname or host ip: ")
 PORT = 5555
 
 # set up the socket and connect to the server
