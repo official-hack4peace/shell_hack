@@ -15,4 +15,6 @@ This tool is made for hacking other person terminal shell by just using two prog
 #### step 2:- run server program in your terminal
 #### step 3:- run client program in victims terminal
 # practical
-### before connected from from victims terminal shell
+#### before connected from victims terminal shell
+![IMG_20211104_101454](https://user-images.githubusercontent.com/90603785/140259661-b573d39d-5566-4ed9-89dd-c1e4b88853fd.jpg)
+#### after connected
