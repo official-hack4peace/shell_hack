@@ -22,7 +22,7 @@ This tool is made for hacking other person terminal shell by just using two prog
 #### step 3:- run client program in victims terminal
 # practical
 #### before connected from victims terminal
-![IMG_20211104_101454](https://user-images.githubusercontent.com/90603785/140259661-b573d39d-5566-4ed9-89dd-c1e4b88853fd.jpg)
+![IMG_20211104_103721](https://user-images.githubusercontent.com/90603785/140261096-a9e24f3a-f7c8-4cb4-8c51-9c17c9cf257a.jpg)
 #### after connected from victims terminal
 ![IMG_20211104_101802](https://user-images.githubusercontent.com/90603785/140259822-9e949207-1c5c-4f1c-8e0b-d844d23eae90.jpg)
 # Thanks
