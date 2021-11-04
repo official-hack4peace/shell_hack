@@ -10,14 +10,20 @@ This tool is made for hacking other person terminal shell by just using two prog
 ### bash setup.sh
 ### python3 server.py
 ### (use this program in victims terminal) python3 client.py
+# works on
+#### 1. Linux distribution
+#### 2. Termux
+#### 3. GNU root debian
+#### 4. Kali nethunter
+#### 5. Windows
 # how to use shell hack tool
 #### step 1:- run setup program 
 #### step 2:- run server program in your terminal
 #### step 3:- run client program in victims terminal
 # practical
-#### before connected from victims terminal shell
+#### before connected from victims terminal
 ![IMG_20211104_101454](https://user-images.githubusercontent.com/90603785/140259661-b573d39d-5566-4ed9-89dd-c1e4b88853fd.jpg)
-#### after connected
+#### after connected from victims terminal
 ![IMG_20211104_101802](https://user-images.githubusercontent.com/90603785/140259822-9e949207-1c5c-4f1c-8e0b-d844d23eae90.jpg)
 # Thanks
 THANKS FOR USING MY TOOL IF YOU LIKE THIS TOOL THEN PLEASE GIVE STAR
