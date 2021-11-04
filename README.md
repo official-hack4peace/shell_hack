@@ -5,11 +5,11 @@ I AM NOT RESPONSIBLE FOR ANY ILLEGAL WORK THIS IS YOUR RESPONSIBILITY IF YOU EXC
 # shell_hack
 This tool is made for hacking other person terminal shell by just using two programs.
 # installation
-### git clone htts://github.com/official-hack4peace/shell_hack
-### cd shell_hack
-### bash setup.sh
-### python3 server.py
-### (use this program in victims terminal) python3 client.py
+#### git clone htts://github.com/official-hack4peace/shell_hack
+#### cd shell_hack
+#### bash setup.sh
+#### python3 server.py
+#### (use this program in victims terminal) python3 client.py
 # works on
 #### 1. Linux distribution
 #### 2. Termux
