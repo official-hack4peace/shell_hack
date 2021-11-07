@@ -20,10 +20,12 @@ This tool is made for hacking other person terminal shell by just using two prog
 #### step 1:- run setup program (for linux user not for windows user) 
 #### step 2:- run server program in your terminal
 #### step 3:- run client program in victims terminal
-# practical
+# practical image
 #### before connected from victims terminal
 ![IMG_20211104_103721](https://user-images.githubusercontent.com/90603785/140261096-a9e24f3a-f7c8-4cb4-8c51-9c17c9cf257a.jpg)
 #### after connected from victims terminal
 ![IMG_20211104_103703](https://user-images.githubusercontent.com/90603785/140261204-245c18cb-20e2-4835-896e-b9436ab437b8.jpg)
+# practical video
+https://youtu.be/bL3iDYK6Ymg
 # Thanks
 THANKS FOR USING MY TOOL 😊IF YOU LIKE THIS TOOL THEN PLEASE GIVE STAR 🌟
